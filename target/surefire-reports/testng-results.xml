@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32" started-at="2020-05-17T14:38:54Z" finished-at="2020-05-17T14:38:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32" started-at="2020-05-17T14:38:54Z" finished-at="2020-05-17T14:38:54Z">
+      <class name="qaclickacademy.RestAPITest">
+        <test-method status="PASS" signature="DataSheet()[pri:0, instance:qaclickacademy.RestAPITest@79b4d0f]" name="DataSheet" duration-ms="1" started-at="2020-05-17T20:08:54Z" finished-at="2020-05-17T20:08:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataSheet -->
+        <test-method status="PASS" signature="APILogin()[pri:0, instance:qaclickacademy.RestAPITest@79b4d0f]" name="APILogin" duration-ms="0" started-at="2020-05-17T20:08:54Z" finished-at="2020-05-17T20:08:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APILogin -->
+      </class> <!-- qaclickacademy.RestAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:qaclickacademy.SeleniumTest@2f7a2457]" name="ElementsUI" duration-ms="13" started-at="2020-05-17T20:08:54Z" finished-at="2020-05-17T20:08:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+        <test-method status="PASS" signature="General()[pri:0, instance:qaclickacademy.SeleniumTest@2f7a2457]" name="General" duration-ms="0" started-at="2020-05-17T20:08:54Z" finished-at="2020-05-17T20:08:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- General -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
